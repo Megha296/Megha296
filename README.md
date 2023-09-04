@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm MEGHA CHAUDHARY!</h1> 
-<img src="./Banner.png">
+![Banner](https://github.com/Megha296/Megha296/assets/98030471/f4edf48f-df76-4fb2-bbe5-fc5cf52726e1)
+
 
 ## 👨🏻‍💻 About Me:
 
