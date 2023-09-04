@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm MEGHA CHAUDHARY!</h1> 
-https://drive.google.com/file/d/1N3srgjr6-LA0u0ZbsTlcsQLzLo9rWvNW/view?usp=sharing
+<img src="./Banner.png">
 
 ## 👨🏻‍💻 About Me:
 
